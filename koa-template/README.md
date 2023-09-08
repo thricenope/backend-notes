@@ -10,6 +10,8 @@
 
 `npm i `
 
+`npm i log4js -D`
+
 `npm i koa-router` 不用了 自带
 
 `npm i nodemon` 不用了 自带
