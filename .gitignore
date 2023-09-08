@@ -2,3 +2,5 @@
 /koa-template/.idea/
 /koa-template/node_modules/
 /koa-template/logs/
+/node_modules/
+/mongoose-template-01/node_modules/
